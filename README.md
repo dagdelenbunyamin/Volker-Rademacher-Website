@@ -1,30 +1,43 @@
-# Hero Geometric Background
+# Volker Rademacher GmbH – Company Website
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+This is a modern, professional website developed for **Volker Rademacher Heizung Lüftung Anlagenbau GmbH**. The project is built using cutting-edge web technologies and focuses on performance, responsive design, and smooth user experience.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dagdelenbunyamins-projects/v0-hero-geometric-background)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/HlotBEEdpxU)
+🌐 **Live Demo**: [https://volker-rademacher-gmbh-demo.vercel.app](https://volker-rademacher-gmbh-demo.vercel.app)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🚀 Technologies Used
 
-## Deployment
+- **Next.js** – React framework for production-ready apps  
+- **Tailwind CSS** – Utility-first CSS framework for custom design  
+- **Framer Motion** – Powerful animations and transitions  
+- **React** – Core library for building the UI
 
-Your project is live at:
+---
 
-**[https://vercel.com/dagdelenbunyamins-projects/v0-hero-geometric-background](https://vercel.com/dagdelenbunyamins-projects/v0-hero-geometric-background)**
+## 🎯 Features
 
-## Build your app
+- ⚡ Lightning-fast and fully responsive design  
+- 🎨 Clean and elegant user interface  
+- 🎬 Smooth animations with Framer Motion  
+- 🔍 SEO-friendly and optimized performance  
+- 🧱 Modular, maintainable code structure
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/HlotBEEdpxU](https://v0.dev/chat/projects/HlotBEEdpxU)**
+## 🛠️ Setup & Development
 
-## How It Works
+To run this project locally, follow these steps:
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+# Clone the repository
+git clone https://github.com/your-username/volker-rademacher-gmbh.git
+
+# Navigate to the project directory
+cd volker-rademacher-gmbh
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
