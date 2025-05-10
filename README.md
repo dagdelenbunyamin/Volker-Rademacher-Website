@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/volker-rademacher-gmbh.git
+git clone https://github.com/dagdelenbunyamin/volker-rademacher-gmbh.git
 
 # Navigate to the project directory
 cd volker-rademacher-gmbh
